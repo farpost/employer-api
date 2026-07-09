@@ -39,7 +39,7 @@ https://www.farpost.ru/oauth2/code?response_type=code&client_id={client_id}&scop
 
 Тело запроса необходимо передавать в виде `application/x-www-form-urlencoded`.
 
-Вернется ответ в формате `'application/json'`, содеражщий слеюущие поля:
+Вернется ответ в формате `'application/json'`, содеражщий следующие поля:
 
 - `access_token` — токен доступа
 - `token_type` — "Bearer"
